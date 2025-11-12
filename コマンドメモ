@@ -1,0 +1,12 @@
+○実行ファイル作成
+
+g++ 対象ファイル名 -std=c++17 -O2 -o 実行ファイル名
+g++ syoukin.cpp -std=c++17 -O2 -o dice
+
+g++ kokugo.cpp -std=c++17 -O2 -o KOKUGO_G
+
+--------------
+
+○実行ファイル起動
+./実行ファイル名
+./saikoro
